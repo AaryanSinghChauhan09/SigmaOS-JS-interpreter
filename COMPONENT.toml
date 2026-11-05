@@ -1,0 +1,6 @@
+[component]
+name = "SigmaOS-JS-interpreter"
+tier = 2
+description = "Lightweight JavaScript runtime and Cinnamon JS shell host interface"
+contracts = ['js-interpreter-host', 'cjs-bindings', 'desktop-script-eval']
+upstream_inspirations = ['https://github.com/linuxmint/cjs']
